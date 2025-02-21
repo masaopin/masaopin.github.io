@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "PAGE-TITLE"
-permalink: /001
+permalink: /about/contact/
 ---
 
 i love you
